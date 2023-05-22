@@ -2,12 +2,12 @@
 Code for RobustFair: Adversarial Evaluation through Fairness Confusion Directed Gradient Search
 
 # Package Requirements:
-Python 3.8
-tensorflow 2.4.1
-numpy 1.19.5
-keras 2.4.3
-scikit-learn 1.0.2
-pandas 1.4.3
+Python 3.8,
+tensorflow 2.4.1,
+numpy 1.19.5,
+keras 2.4.3,
+scikit-learn 1.0.2,
+pandas 1.4.3,
 
 # RobustFair for evaluating accurate fairness
 This package provides code for evaluating accurate fairness using the RobustFair method. 
