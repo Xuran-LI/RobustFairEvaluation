@@ -55,4 +55,3 @@ if __name__ == "__main__":
     train_x, train_y = numpy.split(train_data, [13, ], axis=1)
     train_y = to_categorical(train_y, num_classes=2)
     get_classifier_model(train_x, train_y, epoch, batch_size, "BL")
-
