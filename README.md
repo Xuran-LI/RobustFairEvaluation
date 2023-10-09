@@ -26,6 +26,7 @@ The following steps outline the process for conducting experiments on the Adult 
 3.Run adult_prepare_seeds.py to get the experimental seeds.
 
 4.1.Run compare_experiment_RF.py to evaluate the accurate fairness.
+
 4.2.Run check_loss_change_RobustFair.py to analyze the loss function trend during accurate fairness evaluation.
 
 5.Run adult_retrain_model.py to retrain the model using the RobustFair evaluation from training dataset.
